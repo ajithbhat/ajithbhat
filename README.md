@@ -12,7 +12,7 @@
 | Project | Description | Stack |
 |----------|--------------|--------|
 | [**Kavalu AI Learning Assistant**](https://chromewebstore.google.com/detail/kavalu-ai-learning-assist/jegpgcpboojkhhcaddgieccnlinmphfe) | Chrome extension that summarises, translates & creates flashcards using Gemini + GPT APIs | AWS Lambda, Redis, Next.js |
-| [**Shabdha.app**](https://shabdha.app) [**App Store**]([https://shabdha.app](https://apps.apple.com/gb/app/shabdha/id6755356481?mt=12)) | Speech-to-text and AI writing assistant with multilingual support | Node.js, Python, LLM RAG stack |
+| | [**Shabdha (Mac App Store)**](https://apps.apple.com/gb/app/shabdha/id6755356481) | Speech-to-text + AI writing assistant with multilingual support | Node.js, Python, LLM RAG stack |
 | **Onmo Fintech Architecture** | Serverless credit platform for 100k+ customers (ONMO Ltd) | Step Functions, Kinesis, DataZone |
 
 ---
@@ -37,7 +37,8 @@
 - 🧩 Designed serverless credit-card platform for ONMO (UK fintech) – 60 % runtime reduction.  
 - 🎓 Launched [Kavalu AI](https://chromewebstore.google.com/detail/kavalu-ai-learning-assist/jegpgcpboojkhhcaddgieccnlinmphfe) on Chrome Store → production-grade AWS backend.  
 - 🗂 Defined enterprise schema governance with AWS Glue & DataZone.  
-- 🤖 Building [Shabdha.app](https://shabdha.app) – multilingual speech-to-text & writing assistant.
+- 🚀 Shipped **Shabdha** — now live on the Mac App Store: https://apps.apple.com/gb/app/shabdha/id6755356481
+
 
 ---
 
