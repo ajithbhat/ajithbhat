@@ -12,7 +12,7 @@
 | Project | Description | Stack |
 |----------|--------------|--------|
 | [**Kavalu AI Learning Assistant**](https://chromewebstore.google.com/detail/kavalu-ai-learning-assist/jegpgcpboojkhhcaddgieccnlinmphfe) | Chrome extension that summarises, translates & creates flashcards using Gemini + GPT APIs | AWS Lambda, Redis, Next.js |
-| [**Shabdha.app**](https://shabdha.app) | [**App Store**]([https://shabdha.app](https://apps.apple.com/gb/app/shabdha/id6755356481?mt=12)) | Speech-to-text and AI writing assistant with multilingual support | Node.js, Python, LLM RAG stack |
+| [**Shabdha.app**](https://shabdha.app) [**App Store**]([https://shabdha.app](https://apps.apple.com/gb/app/shabdha/id6755356481?mt=12)) | Speech-to-text and AI writing assistant with multilingual support | Node.js, Python, LLM RAG stack |
 | **Onmo Fintech Architecture** | Serverless credit platform for 100k+ customers (ONMO Ltd) | Step Functions, Kinesis, DataZone |
 
 ---
