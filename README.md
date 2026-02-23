@@ -38,7 +38,7 @@
 
 ## 🏗 Recent Highlights
 
-- 🎯 Built [**JobProof**](https://jobproof.dev) — AI interview coaching platform featuring multi-model LLM orchestration, a state-machine-driven session engine, evidence-grounded scoring with quality gates, and seniority-calibrated prompt chains. Voice-first architecture with STT/TTS integration and structured claim extraction from candidate responses.
+- 🎯 Built [**JobProof**](https://jobproof.dev) — A personal interview coaching platform featuring multi-model LLM orchestration, a state-machine-driven session engine, evidence-grounded scoring with quality gates, and seniority-calibrated prompt chains. Voice-first architecture with STT/TTS integration and structured claim extraction from candidate responses.
 - 🧩 Designed serverless credit-card platform for ONMO (UK fintech) — event-driven architecture with Step Functions orchestration achieving 60% runtime reduction.
 - 🎓 Launched [**Kavalu AI**](https://chromewebstore.google.com/detail/kavalu-ai-learning-assist/jegpgcpboojkhhcaddgieccnlinmphfe) on Chrome Store — multi-model AI pipeline (Gemini + GPT) with production-grade AWS serverless backend and Redis caching.
 - 🗂 Defined enterprise schema governance with AWS Glue & DataZone for cross-account data mesh patterns.
