@@ -3,7 +3,7 @@
 
 💡 AWS & Azure Certified Architect | 15+ years experience in cloud-native design, event-driven systems & AI integration  
 🌍 Based in London   |   Founder @ [Urban Folklore Ltd](https://urbanfolklore.co.uk)  
-📬 [ajithbhat.com](https://ajithbhat.com)  |  [LinkedIn](https://lnkd.in/dChD6-R)  |  [Chrome Store](https://chromewebstore.google.com/detail/kavalu-ai-learning-assist/jegpgcpboojkhhcaddgieccnlinmphfe)
+[**JobProof**](https://jobproof.dev) | [**Shabdha**](https://shabdha.app) | [LinkedIn](https://lnkd.in/dChD6-R)  |  [**Kavalu**](https://chromewebstore.google.com/detail/kavalu-ai-learning-assist/jegpgcpboojkhhcaddgieccnlinmphfe)
 
 ---
 
